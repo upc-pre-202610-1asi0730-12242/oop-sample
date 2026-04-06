@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-sample", "oop-sample\oop-sample.csproj", "{0E1E927C-EF6B-4DF4-880C-28446AB5272C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACME.OOP", "ACME.OOP\ACME.OOP.csproj", "{0E1E927C-EF6B-4DF4-880C-28446AB5272C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
